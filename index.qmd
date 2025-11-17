@@ -1,7 +1,5 @@
 ---
 title: La reproductibilité au service de la recherche et de la mise en production de projets statistiques
-#subtitle: |
-#  ****
 date: 2025-11-26
 date-format: long
 lang: fr
@@ -19,6 +17,7 @@ footer: |
 format: jms-revealjs
 bibliography: references.bib
 ---
+
 
 ## Contexte {.smaller}
 

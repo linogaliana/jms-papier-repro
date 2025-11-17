@@ -3,6 +3,8 @@ $marron:  #552523 ;
 $orange: #ea6858;
 $green: #c8d42c;
 $black: rgb(44, 50, 63);
+$purple: #633250 ;
+
 
 $link-color: $green;
 
@@ -64,3 +66,6 @@ $dark-bg-code-color: $orange !default;
   color: $orange;
 }
 
+.purple {
+  color: $purple;
+}
